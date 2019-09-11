@@ -1,0 +1,5 @@
+Phone, 340, on, 2
+PC, 1420.95, off, 4
+Plant, 24.5, off, 5
+Newspaper, 1.9, off, 3
+Eggs, 6, on, 5
